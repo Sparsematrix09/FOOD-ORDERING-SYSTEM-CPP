@@ -1,0 +1,21 @@
+Name: Annie
+Address: Carlton street,CAL
+Phone: 9870782341
+
+Order Summary:
+CheesePizza from Dominos - $9.49
+Pepperoni from PizzaHut - $10.99
+
+Total Bill: $27.47
+===
+
+Name: Ann
+Address: Charlsberg,CA
+Phone: 7658908231
+
+Order Summary:
+FriedChicken from KFC - $5.99
+
+Total Bill: $11.99
+===
+
